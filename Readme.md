@@ -8,12 +8,12 @@
 - mason.nvim (for LSPs)
 
 ### remaps :
-leader = ' '
-<leader>fe = File explorer
-J (in visual mode) = move selected text up 
-K (in visual mode) = move selected text up
-<leader>y = copy to clipboard (visual/normal)
-<leader>r = replace current word
+- leader = ' '
+- <leader>fe = File explorer
+- J (in visual mode) = move selected text up 
+- K (in visual mode) = move selected text up
+- <leader>y = copy to clipboard (visual/normal)
+- <leader>r = replace current word
 
 ### theme :
 navarasu/onedark - warmer
